@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&lines=Bienvenido(a)+a+mi+repositorio;disfruta+de+ITACHI+dev+Harvak)](https://git.io/typing-svg)
 
- <img src= "https://files.catbox.moe/u88993.jpg">
+ <img src= "https://qu.ax/ixyfD.jpg">
     </p>
 
 ### **`❕️ Información importante`**
