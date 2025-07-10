@@ -125,20 +125,12 @@ npm start
 
 ---
 
-### **`❀ Colaboradores`**
 
-<a href="https://github.com/https0J" style="display:inline-block; margin-right: 10px; text-decoration: none;"><img src="https://github.com/https0J.png" width="130" height="130" alt="https" style="border-radius: 50%;"/>
-</a>
 
 ### **`ᥫ᭡ Propietario`**
 <a
 href="https://qu.ax/BzBzf.jpg"><img src="https://qu.ax/BzBzf.jpg" width="130" height="130" alt="
-Neykoor ofc"/></a>
+harvka ofc"/></a>
 
-### **`🜸 Créditos`**
 
-<a href="https://github.com/BrunoSobrino" style="display:inline-block; margin-right: 10px; text-decoration: none;"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="Bruno Ofc" style="border-radius: 50%;"/>
-</a>
-<a href="https://github.com/The-King-Destroy" style="display:inline-block; margin-right: 10px; text-decoration: none;"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜" style="border-radius: 50%;"/>
-</a>
 
