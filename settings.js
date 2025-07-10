@@ -45,12 +45,12 @@ global.FurinaJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '˚୨୧⋆｡rᥲgᥒᥲ_ᑲ᥆𝗍˚୨୧⋆｡'
-global.botname = '˚୨୧⋆｡rᥲgᥒᥲ_ᑲ᥆𝗍-mძ˚୨୧⋆｡'
+global.packname = '˚୨୧⋆｡⁖ฺ۟̇࣪·֗٬̤⃟🔥𓆩‌۫᷼ ִֶ𝐈𝐓ꪖ𝐂h͟𝐈𓆪 𓆩‌۫᷼ ִֶָღ͢𓆪_ᑲ᥆𝗍˚୨୧⋆｡'
+global.botname = '˚୨୧⋆｡⁖ฺ۟̇࣪·֗٬̤⃟🔥𓆩‌۫᷼ ִֶ𝐈𝐓ꪖ𝐂h͟𝐈𓆪 𓆩‌۫᷼ ִֶָღ͢𓆪_ᑲ᥆𝗍-mძ˚୨୧⋆｡'
 global.wm = '⋆｡ Furina ｡⋆'
-global.author = '© rᥲgᥒᥲ_ᑲ᥆𝗍-mძ|һᥲr᥎ᥲk'
+global.author = '© ⁖ฺ۟̇࣪·֗٬̤⃟🔥𓆩‌۫᷼ ִֶ𝐈𝐓ꪖ𝐂h͟𝐈𓆪 𓆩‌۫᷼ ִֶָღ͢𓆪_ᑲ᥆𝗍-mძ|һᥲr᥎ᥲk'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ һᥲr᥎ᥲk'
-global.textbot = 'rᥲgᥒᥲ_ᑲ᥆𝗍-mძ'
+global.textbot = '⁖ฺ۟̇࣪·֗٬̤⃟🔥𓆩‌۫᷼ ִֶ𝐈𝐓ꪖ𝐂h͟𝐈𓆪 𓆩‌۫᷼ ִֶָღ͢𓆪_ᑲ᥆𝗍-mძ'
 global.etiqueta = 'һᥲr᥎ᥲk'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -58,7 +58,7 @@ global.etiqueta = 'һᥲr᥎ᥲk'
 global.moneda = '¥enes'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://qu.ax/UUgNU.jpg'
+global.banner = 'https://qu.ax/ixyfD.jpg'
 global.avatar = 'https://qu.ax/loMwz.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
