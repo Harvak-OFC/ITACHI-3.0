@@ -1,4 +1,4 @@
-<h1 align="center">˚୨୧⋆｡⁖ฺ۟̇࣪·֗٬̤⃟🔥𓆩‌۫᷼ ִֶ𝐈𝐓ꪖ𝐂h͟𝐈𓆪 𓆩‌۫᷼ ִֶָღ͢𓆪˚୨୧⋆｡</h1>
+<h1 align="center">˚୨୧⋆｡🔥𓆩‌۫᷼ ִֶ𝐈𝐓ꪖ𝐂h͟𝐈𓆪˚୨୧⋆｡</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&lines=Bienvenido(a)+a+mi+repositorio;disfruta+de+ITACHI+dev+Harvak)](https://git.io/typing-svg)
 
