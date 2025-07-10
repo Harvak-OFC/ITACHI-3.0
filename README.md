@@ -132,7 +132,7 @@ npm start
 
 ### **`ᥫ᭡ Propietario`**
 <a
-href="https://github.com/Aqua200"><img src="https://github.com/Aqua200.png" width="130" height="130" alt="
+href="https://qu.ax/BzBzf.jpg"><img src="https://qu.ax/BzBzf.jpg" width="130" height="130" alt="
 Neykoor ofc"/></a>
 
 ### **`🜸 Créditos`**
